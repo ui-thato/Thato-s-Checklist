@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+smart_campus_system/smart_campus.db
+smart_campus_system/reports/
